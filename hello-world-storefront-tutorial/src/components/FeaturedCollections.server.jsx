@@ -11,7 +11,9 @@ export default function FeaturedCollections() {
         )
 
     return (
+
         <section className="w-full gap-4 md:gap-8 grid p-6 md:p-8 lg:p-12">
+          
           <h2 className="whitespace-pre-wrap max-w-prose font-bold text-lead">
             Collections
           </h2>
